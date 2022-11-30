@@ -1,7 +1,7 @@
 const BLOG = {
   title: ' a2uk1s blog ',
   author: 'a2uk1',
-  email: 'ricardojam825@gmail.com',
+  email: 'a2uk1#azuki.cn',
   link: 'https://blog.azuki.cn',
   description: 'Konw me & konw yourself.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
